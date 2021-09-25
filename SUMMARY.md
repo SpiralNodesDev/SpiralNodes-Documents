@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Home](README.md)
-* [SpiralNodes](https://spiralnodes.xyz)
+* [🏡 Home](README.md)
+* [🌌 SpiralNodes](https://spiralnodes.xyz)
 
-## Tutorials
+## 📢 Tutorials
 
 * [Tutorials](tutorials/tutorials-spiralnodes.md)
 
-## Facts
+## ❓ Facts
 
 * [Facts](facts/facts-spiralnodes.md)
 
