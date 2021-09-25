@@ -1,5 +1,5 @@
 # Table of contents
 
-* [SpiralNodes Documents](README.md)
+* [Documents](README.md)
 * [Untitled](untitled.md)
 

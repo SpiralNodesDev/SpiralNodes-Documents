@@ -1,2 +1,2 @@
-# SpiralNodes Documents
+# Documents
 
