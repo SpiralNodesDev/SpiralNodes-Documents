@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Documents](README.md)
+* [Home](README.md)
 * [Untitled](untitled.md)
 
