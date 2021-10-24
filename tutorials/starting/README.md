@@ -6,4 +6,4 @@ description: >-
 
 # Starting
 
-Here are some of the articles we have in this document section:
+We appreciate you taking the time to read our documents! 🤯
