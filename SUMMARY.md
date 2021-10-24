@@ -7,7 +7,7 @@
 
 * [Tutorials](tutorials/tutorials-spiralnodes.md)
 * [Starting](tutorials/starting/README.md)
-  * [Creating a sever](tutorials/starting/creating-a-sever.md)
+  * [👀 Creating a sever](tutorials/starting/creating-a-sever.md)
 
 ## ❓ Facts
 
