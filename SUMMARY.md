@@ -5,9 +5,9 @@
 
 ## 📢 Tutorials
 
-* [Tutorials](tutorials/tutorials-spiralnodes.md)
 * [Starting](tutorials/starting/README.md)
   * [👀 Creating a sever](tutorials/starting/creating-a-sever.md)
+* [How to reset my password?](tutorials/how-to-reset-my-password.md)
 
 ## ❓ Facts
 
